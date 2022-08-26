@@ -1,5 +1,2 @@
+Query Switchbot Meter and Voltcraft SEM 6000 via BLE on a LILYGO TTGO T-Call&PMU ESP32 Wireless Module SIM Antenna SIM Card SIM800L Module (TT01010) and push data to webserver
 
-## Install the following dependency library files:
-- [TinyGSM](https://github.com/vshymanskyy/TinyGSM)
-- [AXP202X_Library](https://github.com/lewisxhe/AXP202X_Library)
-"# switchbot_voltcraft" 
